@@ -1,0 +1,20 @@
+{
+  "name": "nethsoes-scrapping",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "ts-node-dev src/index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "description": "",
+  "dependencies": {
+    "prompt-sync": "^4.2.0",
+    "puppeteer": "^21.3.8"
+  },
+  "devDependencies": {
+    "ts-node-dev": "^2.0.0"
+  }
+}
